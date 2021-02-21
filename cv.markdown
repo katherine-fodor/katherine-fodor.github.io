@@ -25,9 +25,10 @@ Sep 2012 -- Jun 2013: Peer Tutor, University of Leeds, United Kingdom
 I assisted and gave guidance to undergraduate students as to how to tackle mathematical problems they were struggling with.
 
 ### Publications
+Schwendike, J., G.J. Berry, **K. Fodor** and M.J. Reeder (2021). On the Relationship Between the Madden-Julian Oscillation and the Hadley and Walker Circulations. *J. Geophys. Res. Atmos.*, **126**. <https://doi.org/10.1029/2019JD032117> 
 
-Fodor, K. (2020). The influence of large coherent structures on near-surface and entrainment zone properties in convective boundary layers. PhD Thesis, University of Hamburg. <http://hdl.handle.net/21.11116/0000-0006-5F45-3>
+**Fodor, K.** (2020). The influence of large coherent structures on near-surface and entrainment zone properties in convective boundary layers. PhD Thesis, University of Hamburg. <http://hdl.handle.net/21.11116/0000-0006-5F45-3>
 
-Fodor, K., and J.P. Mellado (2020). New Insights into Wind Shear Effects on Entrainment in Convective Boundary Layers Using Conditional Analysis. *J. Atmos. Sci.*, **77**, 3227-3248. <https://doi.org/10.1175/JAS-D-19-0345.1>
+**Fodor, K.** and J.P. Mellado (2020). New Insights into Wind Shear Effects on Entrainment in Convective Boundary Layers Using Conditional Analysis. *J. Atmos. Sci.*, **77**, 3227-3248. <https://doi.org/10.1175/JAS-D-19-0345.1>
 
-Fodor, K., J.P. Mellado & M. Wilczek (2019). On the Role of Large-Scale Updrafts and Downdrafts in Deviations From Monin–Obukhov Similarity Theory in Free Convection. *Boundary-Layer Meteorol*, **172**, 371–396. <https://doi.org/10.1007/s10546-019-00454-3>
+**Fodor, K.**, J.P. Mellado & M. Wilczek (2019). On the Role of Large-Scale Updrafts and Downdrafts in Deviations From Monin–Obukhov Similarity Theory in Free Convection. *Boundary-Layer Meteorol*, **172**, 371–396. <https://doi.org/10.1007/s10546-019-00454-3>
